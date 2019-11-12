@@ -1,7 +1,7 @@
 let capture
 let tracker
 
-let heart
+
 let antler
 
 let rednose
@@ -15,7 +15,7 @@ let snowflakes = []
 let christmas
 
 function preload() {
-    heart = loadImage('heart.jpg')
+    
     antler = loadImage('antler.jpg')
     rednose = loadImage('rednose.png')
     lights = loadImage('lights.png')
